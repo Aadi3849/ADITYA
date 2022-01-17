@@ -5,7 +5,7 @@
 ```python
 Name = "AADITYA"
 GITHUB = ['AADITYA':  '❣️']
-Country = "INDIA, PUNJAB"
+Country = "INDIA, HARYANA"
 ```
 #### 
 [![GITHUBBADGE](https://img.shields.io/badge/AADI3849-30302f?style=for-the-badge&logo=GITHUB)](https://github.com/AADI3849)
