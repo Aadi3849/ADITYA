@@ -3,7 +3,7 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "SUKHPAL443"
+Name = "AADITYA"
 GITHUB = ['AADITYA':  '❣️']
 Country = "INDIA, PUNJAB"
 ```
